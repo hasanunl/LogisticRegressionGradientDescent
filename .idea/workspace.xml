@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a43a0012-46ac-45b6-816a-8d6e51fcafb0" name="Default Changelist" comment="" />
+    <list default="true" id="a43a0012-46ac-45b6-816a-8d6e51fcafb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -67,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LogisticRegressionGradientDescent.gemspec">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -90,8 +92,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/LogisticRegressionGradientDescent.rb" />
-        <option value="$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb" />
         <option value="$PROJECT_DIR$/LogisticRegressionGradientDescent.gemspec" />
+        <option value="$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb" />
       </list>
     </option>
   </component>
@@ -170,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544603452613</updated>
-      <workItem from="1544603453862" duration="2544000" />
+      <workItem from="1544603453862" duration="2832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2544000" />
+    <option name="totallyTimeSpent" value="2832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="3200" height="1764" extended-state="6" />
@@ -236,13 +238,6 @@
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -253,6 +248,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LogisticRegressionGradientDescent/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
